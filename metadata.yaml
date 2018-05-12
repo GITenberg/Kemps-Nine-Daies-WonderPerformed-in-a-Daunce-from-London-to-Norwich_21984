@@ -1,0 +1,35 @@
+_repo: Kemps-Nine-Daies-WonderPerformed-in-a-Daunce-from-London-to-Norwich_21984
+_version: 0.1.0
+alternative_title:
+- 'Kemp''s Nine Days'' Wonder: Performed in a Dance from London to Norwich'
+- 'Kemp''s 9 Days'' Wonder: Performed in a Dance from London to Norwich'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kemp, William, active 1600
+    gutenberg_agent_id: '25010'
+    url: http://www.gutenberg.org/2009/agents/25010
+  editor:
+    agent_name: Dyce, Alexander
+    birthdate: 1798
+    deathdate: 1869
+    gutenberg_agent_id: '5689'
+    url: http://www.gutenberg.org/2009/agents/5689
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Dyce
+description: ''
+gutenberg_issued: '2007-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dance -- England'
+- !lcsh 'Morris dance'
+- !lcc 'GV'
+title: 'Kemps Nine Daies Wonder: Performed in a Daunce from London to Norwich'
+url: http://www.gutenberg.org/ebooks/21984
