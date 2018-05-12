@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5689
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Dyce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21984#Kemps-Nine-Daies-WonderPerformed-in-a-Daunce-from-London-to-Norwich
 gutenberg_issued: '2007-07-02'
 gutenberg_type: Text
 identifiers:
